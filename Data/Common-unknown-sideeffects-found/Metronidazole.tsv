@@ -1,0 +1,52 @@
+Metronidazole_drugsCom	Metronidazole_MedEffect	Metronidazole_OpenFDA	Metronidazole_Twitter	sideefects
+0.006880733944954129	0.00019175455417066154	0.0011107313738892687	0.017703132092601003	, cancer,tumor malignant,neoplasm cancer,blastoma,cancers,malignant tumors,malignant neoplasm,malignant neoplasms,malignant tumours,blastomas,malignancies,malignant tumor,malignant tumour,cancer nos,cancer neoplasms,ca cancer
+0.02321981424148607	0.00039016777214202113	0.0021037868162692847	0.017354596622889306	, hyperthermia,febrile,elevated temperature,body increased temperature,febriles,temperature elevation,increase temperature,increases temperature,temperature high,fever,fevers,high temperatures,pyrexia,raised temperature,body high temperature,fevered,increased body temperature,febris,pyrexial,temperature increase,high temperature,high body temperature
+0.019747235387045814	0.000390777647518562	0.00048295180141021924	0.009854771784232365	, infection dental,dental infections,tooth infection,dental infection,infections tooth,infection tooth
+0.006960556844547564	0.0001963864886095837	0.0007209805335255948	0.006972111553784861	, ulcer, Ulcer
+0.02442868400315209	0.014764079147640791	0.020118904015164567	0.006211180124223602	, abdominal pain, Abdominal pain
+0.011084718923198731	0.000390777647518562	0.00039269585705870805	0.004677754677754678	, tooth infection, Tooth infection
+0.001579778830963665	0.0013361328497804926	0.005104241552839685	0.004665629860031105	, urinary tract infection, Urinary tract infection
+0.003918495297805642	0.00019661816751867872	0.0003097253768325418	0.004606172270842929	, cough, Cough
+0.0007733952049497294	0.0003897116134060795	0.001048126473927854	0.004341534008683068	, occluded,blocked,obstructions,obstruction,occlusions,blocks,occlusion,block,occluding
+0.008861622358554875	0.0009759906304899473	0.0017543859649122807	0.003998400639744102	, feels cold,cold feels,cold to touch,coldness,cold touch,feel cold,cold feel,cold feelings
+0.0007898894154818325	0.005457522284882664	0.015950314065918555	0.003569607343192249	, drug interaction, Drug interaction
+0.022463206816421367	0.0001941747572815534	0.0006428505831573148	0.003560528992878942	, ears infections,earings infection,earing infections,earring infection,ear infections,ears infection,infections ear,infection of ear,earring infections,infection ear,ear infection,of ear infection
+0.0007880220646178094	0.005457522284882664	0.0159368168676398	0.0035587188612099642	, drug-drug interaction,interactions drug,drug interaction with,drugs interactions,drug drug interactions,drug drugs interactions,drug drug interaction,drug interactions,drug interaction,interaction drug,drugs interaction
+0.01024428684003152	0.0001966955153422502	0.0009479671371392457	0.003007518796992481	, culture
+0.0007911392405063291	0.0015701668302257115	0.00031347962382445143	0.002593360995850623	, lyme disease, Lyme disease
+0.002225519287833828	0.002600780234070221	0.00673924313115604	0.0025684931506849322	, blood pressure
+0.02251552795031056	0.0001941747572815534	0.0005537098560354374	0.002545824847250509	, ear infection, Ear infection
+0.011967090501121914	0.0031710501772057448	0.019642985160226542	0.0021468441391155	, mental confusion,bewilderment,confusional state,dazing,confusional states,confused,confusion,daze,dazed,confusion mental
+0.00792393026941363	0.00039184952978056425	0.0038022813688212928	0.0020757654385054488	, thrush,oral moniliasis,thrush oral,candidiasis oral,candida oral,oral candida,candida mouth,oral candidosis,oral candidiasis,candidas oral,candida stomatitis,candidas mouth,mouth candidiasis,oral thrush,candidosis oral,candidiasis mouth
+0.00078064012490242	0.00019327406262079628	0.0007943600436898022	0.0019792182088075212	, wounds,physical wound,wound,injuries wound,morphology wound
+0.00078064012490242	0.00019327406262079628	0.0008020854220974535	0.0019792182088075212	, wound, Wound
+0.0030959752321981426	0.0007585814526834819	0.004549886252843679	0.0017145306472353193	, heart rate, Heart rate
+0.0023771790808240893	0.00019665683382497545	0.002107481559536354	0.0015600624024961	, pelvic inflammatory disease, Pelvic inflammatory disease
+0.003169572107765452	0.00019657951641438966	0.0015726567414552314	0.0015600624024961	, culture positive, Culture positive, culture negative, Culture negative
+0.002336448598130841	0.0005820721769499418	0.002805683772287085	0.0015306122448979589	, gastrointestinal pains,pain gi,gastrointestinal pain,gi pain
+0.009935968204901743	0.000196232339089482	0.00010461345329009308	0.0013768269434441855	, anxiousness,anxiety,anxious,anxieties
+0.0071215253847920984	0.000196232339089482	0.00010461345329009308	0.0012951842693983279	, anxiety, Anxiety
+0.0019588638589618022	0.0015845070422535212	0.001992148590847835	0.0012644508670520231	, increase weight,gain weight,weight gain,weight increase,gains weight,gain wt,weight gaining,gaining wt,increasing weight,increased weight,increases weight,wt gain,gained weight
+0.0019502681618722574	0.00019634792852935403	0.0002047082906857728	0.0010668563300142249	, not gaining weight,not putting on weight,failure to gain weight,weight gain unable,failure weight gain,putting weight,weight gaining,weight gain failure,unable to gain weight,gaining weight,put weight,poor weight gain
+0.011041009463722398	0.0007829320806420043	0.0021278751646570068	0.001038961038961039	, vaginal infection, Vaginal infection
+0.001584786053882726	0.000588119976475201	0.0003131850923896023	0.001038961038961039	, alcohol interaction, Alcohol interaction
+0.001579778830963665	0.0003861749372465727	0.0015814964910546606	0.0010362694300518132	, mouth ulceration, Mouth ulceration
+0.010260457774269928	0.0013503086419753086	0.008570139828597204	0.0010357327809425167	, face swells,face swelling,swelling of face,face swell,faces swelling,swelling facial,face swollen,facial swelling,swollen face,swelling face
+0.0007905138339920951	0.06103468320093005	0.008496327108593679	0.0010357327809425167	, miscarriage,spontaneous abortions,miscarriages,abortion spontaneous,pregnancy miscarriage,miscarriage of pregnancy,miscarriages pregnancy,abortions spontaneous,miscarriage pregnancy,spontaneous abortion
+0.001579778830963665	0.0003861749372465727	0.0020606417427141595	0.0010357327809425167	, of mouth ulcer,oral ulcerations,mouth ulcerations,mouth ulcer,mouth ulceration,oral ulcers,ulcer oral,oral ulcer,mouth ulcers,ulcers mouth,oral ulceration,ulcer mouth
+0.009448818897637795	0.00019577133907595928	0.005845782685348427	0.0010298661174047373	, oral pain,mouth painful,pain oral,painful mouth,mouth pain,cavity oral pain,pain mouth,mouth pains
+0.0046296296296296285	0.005544261689151728	0.010144390966308774	0.001004016064257028	, appetite reducing,appetite poor,appetite decreased,reduced appetite,appetite decreasing,decrease appetite,decrease in appetite,appetites decrease,decreased appetite,appetite decrease,poor appetite
+0.0007892659826361484	0.00019102196752626555	0.00046676624346527276	0.0009970089730807576	, serotonin syndromes,syndrome serotonin,serotonin syndrome,serotonergic syndrome
+0.0007892659826361484	0.00019102196752626555	0.00046685340802987853	0.0009970089730807576	, serotonin syndrome, Serotonin syndrome
+0.0032175032175032173	0.0003863987635239567	0.0004520795660036166	0.0007930214115781126	, change moods,labile mood,change mood,changes mood,altered moods,altering mood,emotional lability,mood labile,mood swings,swings mood,emotionally labile,mood swing,emotional instability,mood change
+0.0020689655172413802	0.0005633802816901409	0.0022873602168756355	0.0007555723460521345	, disturbances sleeping,sleep disorders,problems sleeping,disorder sleeping,sleep disturbance,sleep disturbances,sleeping disorders,problem sleeping,disorders sleeping,problems sleep,disturbances sleep,problem sleep,sleep disordered,disorders sleeps,disturbance sleep,disturbance sleeping,disorder sleep,sleep problem,sleep disorder,disorders sleep,disturbed sleep
+0.001584786053882726	0.002705836876691148	0.004248915641320705	0.0005181347150259066	, Chest discomfort, discomfort chest,discomfort in chest,chest discomfort, chest discomfort
+0.003152088258471237	0.00037914691943127966	0.004121360925990881	0.0005151983513652757	, neck pain, Neck pain
+0.0031421838177533392	0.0009667440061871617	0.001885437241874664	0.0005128205128205128	, dry skin,skin dryness,drying skin,skin dry,dryness skin
+0.002365930599369085	0.000194325689856199	0.0010974758056470119	0.0005120327700972862	, jaw pain,jaw pains,pain in jaw,pain jaw,of jaw pain,pain mandibular,mandibular pain,jaws pain
+0.011547344110854505	0.004434225652816554	0.007096269240803549	0.0005117707267144318	, extremities pains,pain extremity,limb pain,pain limb,extremities pain,pain extremities,limb ach,extremity pain,limbs pain,aching limbs
+0.0007886435331230284	0.0020928462709284626	0.004086302713305003	0.0005073566717402334	, increased blood pressure,blood elevate pressure,blood pressure elevated,elevated bp,increase blood pressure,rise in blood pressure,blood pressure raising,increase in blood pressure,blood elevates pressure,blood elevations pressure,blood pressure rise,blood pressure increase,blood elevation pressure,elevation blood pressure,blood increase pressure,blood increases pressure,elevate blood pressure,blood pressure rises,elevated blood pressure,blood increasing pressure,blood pressure elevation
+0.0015810276679841895	0.0003894839337877313	0.0037612838515546643	0.000493339911198816	, heart failure,heart failures,failure heart,cardiac failures,failure cardiac,heart weaknesses,myocardial failure,weak heart,cardiac failure,heart weakness,hearts weak,failures heart
+0.007014809041309431	0.0021409108602569093	0.0018325617283950614	0.0004885197850512948	, vitamin a, vitamin d
+0.003315649867374005	0.0003863987635239567	0.0004552490212146044	0.00041963911036508597	, mood swings, Mood swings
+0.0030441400304414	0.0007776049766718508	0.0002038528182652125	0.00028604118993135017	, panics,panic,panicky,panic reaction
